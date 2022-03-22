@@ -5,5 +5,5 @@
 - SCRUM, https://www.scrum.org/why-scrumorg, 也像卡內基訓練一樣, 有培練課程
 ## 聽書的摘要
 - [v] SCRUM, 敏捷管理方法
-- 
+- [x] Tokenizer
 - 
