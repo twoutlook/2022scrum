@@ -4,6 +4,6 @@
 - 也在Youtube 找到, https://www.youtube.com/watch?v=2L1oBLTICx4
 - SCRUM, https://www.scrum.org/why-scrumorg, 也像卡內基訓練一樣, 有培練課程
 ## 聽書的摘要
-- [x]SCRUM, 敏捷管理方法
+- [v] SCRUM, 敏捷管理方法
 - 
 - 
